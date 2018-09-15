@@ -1,13 +1,2 @@
-﻿  BinaryTree.c
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(143): warning C4133: “初始化”: 从“DataType”到“QueueNode *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(160): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(161): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(163): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(165): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(169): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(172): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(174): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(176): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(179): warning C4133: “函数”: 从“QueueNode *”到“Queue *”的类型不兼容
-d:\c\work\work8_18二叉树操作\work_8_18二叉树操作\binarytree.c(157): warning C4133: “初始化”: 从“Queue *”到“QueueNode *”的类型不兼容
+﻿  testBinaryTree.c
   work_8_18二叉树操作.vcxproj -> D:\c\work\work8_18二叉树操作\Debug\work_8_18二叉树操作.exe

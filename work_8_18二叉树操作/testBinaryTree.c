@@ -62,8 +62,8 @@ testHeap()
 	printf("sz：%d\n", sz);
 	int empty = HeapEmpty(&hp);
 	printf("Is Empty?%d\n",empty);
-	HeapSort(&array, sizeof(array) / sizeof(HPDataType));
-	HeapPrint1(&array,sizeof(array)/sizeof(HPDataType));
+	HeapSort(array, sizeof(array) / sizeof(HPDataType));
+	HeapPrint1(array,sizeof(array)/sizeof(HPDataType));
 	HeapDestory(&hp);
 	 //时间常数logN
 	 //堆的应用
